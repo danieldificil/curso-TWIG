@@ -1,0 +1,17 @@
+{
+    "name": "danie/t01_intalacao_composer",
+    "autoload": {
+        "psr-4": {
+            "Danie\\T01IntalacaoComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "danieldificil",
+            "email": "deasking.tc@outlook.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
